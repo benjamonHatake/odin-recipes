@@ -1,0 +1,1 @@
+El siguiente proyecto tiene como fin lograr la creacion de una pàgina principal, la cual dentro de ella existiran enlaces a recetas de cocina.
